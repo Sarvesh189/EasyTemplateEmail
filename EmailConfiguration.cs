@@ -18,13 +18,13 @@ namespace EasyTemplateEmail
 
         
 
-        public EmailConfiguration(string host, int port, NetworkCredential networkCredential, bool isSecureChannel)
+        public EmailConfiguration(string host, int port, NetworkCredential networkCredential, bool isSecureChannel,bool isHtmlEmailBody)
         {
             Host = host;
             Port = port;
             NetworkCredential = networkCredential;
             IsSecureChannel = isSecureChannel;
-         
+            IsHtmlEmailBody = isHtmlEmailBody;
         }
     }
 }

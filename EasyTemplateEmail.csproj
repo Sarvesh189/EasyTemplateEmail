@@ -2,6 +2,16 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>sarvesh189@gmail.com</Authors>
+    <Company>Dotnet opensource</Company>
+    <Description>This library helps to construct email body from a html template and then sends the email.</Description>
+    <Copyright>@copyright</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Version>1.0.1</Version>
+    <RepositoryUrl>https://github.com/Sarvesh189/EasyTemplateEmail</RepositoryUrl>
+    <RepositoryType>public</RepositoryType>
+    <PackageTags>Email, template</PackageTags>
   </PropertyGroup>
 
 </Project>
