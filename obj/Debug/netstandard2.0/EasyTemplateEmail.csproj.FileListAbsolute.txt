@@ -1,0 +1,9 @@
+D:\projects\EasyTemplateEmail\bin\Debug\netstandard2.0\EasyTemplateEmail.deps.json
+D:\projects\EasyTemplateEmail\bin\Debug\netstandard2.0\EasyTemplateEmail.dll
+D:\projects\EasyTemplateEmail\bin\Debug\netstandard2.0\EasyTemplateEmail.pdb
+D:\projects\EasyTemplateEmail\obj\Debug\netstandard2.0\EasyTemplateEmail.csprojAssemblyReference.cache
+D:\projects\EasyTemplateEmail\obj\Debug\netstandard2.0\EasyTemplateEmail.AssemblyInfoInputs.cache
+D:\projects\EasyTemplateEmail\obj\Debug\netstandard2.0\EasyTemplateEmail.AssemblyInfo.cs
+D:\projects\EasyTemplateEmail\obj\Debug\netstandard2.0\EasyTemplateEmail.csproj.CoreCompileInputs.cache
+D:\projects\EasyTemplateEmail\obj\Debug\netstandard2.0\EasyTemplateEmail.dll
+D:\projects\EasyTemplateEmail\obj\Debug\netstandard2.0\EasyTemplateEmail.pdb
